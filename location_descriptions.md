@@ -4,4 +4,6 @@ Mars: A mixed bag. Has a number of tourist resorts but requires a lot of manpowe
 
 Solari Fortuna: Man-made planet to replace the moon, which was falling apart. Once a symbol of hope for a united humanity, now nothing more than a new new vegas. A destination where everything is ephemeral. Dedicated to the .01%.]
 
+Jupiter: Some amount of private vacation homes and entertainment centers in orbit. Skydiving like Felix Baumgartner?
+
 Neptune, Uranus, Pluto: Exclusively manned by researchers and their aides.
