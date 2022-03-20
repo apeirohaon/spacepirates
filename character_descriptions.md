@@ -2,12 +2,12 @@ Protagonist:
 Sex: male  
 Age: 19  
 Captain of the ship.  
-Spent his childhood in a desolate land outside of any registered areas or claimed territories. His existence is not recognized by the Interplanetary League.  
+Spent his childhood in a desolate land outside of any registered areas or claimed territories. His existence is not recognized by the Interplanetary League. For the time being, deliberately avoids thinking about anything that isn't strictly necessary for his continued survival.
 
 A1:  
 Sex: male  
 Age: 37  
-Once a staunchly law-abiding citizen, he still holds 
+Once a staunchly law-abiding citizen, he still holds onto many of his old ideals. 
 
 A2:  
 Sex: male  
