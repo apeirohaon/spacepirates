@@ -1,7 +1,7 @@
 --- Act 1
 
 Scene 1: The protagonist is being pursued by a sharp enemy. He escapes with the following plan:  
-1) take a relatively basic wormhole route the enemy is sure to know (but the enemy likely thinks he doesn't they know)  
+1) take a relatively basic wormhole route the enemy is sure to know (but the enemy likely thinks he doesn't know they know)  
 2) pretend to panic and rapidly accelerate toward a wormhole route that conventional knowledge says is excessively dangerous, but that he has some experience taking  
 3) leave them in the dirt thinking he killed himself  
 [Note: emphasize that he doesn't care about "winning", only surviving; some exposition on the random wormholes popping up as tunnels see more use; maybe at a later point explain that his knowledge  came thanks to disregard of his life]
