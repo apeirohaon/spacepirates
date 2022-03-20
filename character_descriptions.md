@@ -4,7 +4,7 @@ Spent his childhood in a desolate land outside of any registered areas or claime
 High IQ.
 
 A1:
-Grew up as part of a long-distance 'tribe' (often called a cult) only made possible be the 
+Grew up as part of a long-distance 'tribe' (often called a cult) only made possible by cthulu cult.
 
 A2:
 
