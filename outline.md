@@ -4,7 +4,7 @@ Scene 1: The protagonist is being pursued by a sharp enemy. He escapes with the 
 1) take a relatively basic wormhole route the enemy is sure to know (but the enemy likely thinks he doesn't know they know)  
 2) pretend to panic and rapidly accelerate toward a wormhole route that conventional knowledge says is excessively dangerous, but that he has some experience taking  
 3) leave them in the dirt thinking he killed himself  
-[Note: emphasize that he doesn't care about "winning", only surviving; some exposition on the random wormholes popping up as tunnels see more use; maybe at a later point explain that his knowledge  came thanks to disregard of his life]
+[Note: emphasize that he doesn't care about "winning", only surviving; some exposition on the random wormholes popping up as tunnels see more use - scene takes place near a gate; maybe at a later point explain that his knowledge  came thanks to disregard of his life]
 
 Scene 2: His previous job had been very high-paying (and correspondingly dangerous), so for the moment he is comfortable financially. He wanders aimlessly about the space around [ ? ] and encounters a seer after the traditional fashion. She tells him that he soon encounter a three-pronged decision, and that he should choose carefully. 
 
