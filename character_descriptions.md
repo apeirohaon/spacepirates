@@ -13,7 +13,7 @@ Once a staunchly law-abiding citizen, he still holds onto many of his old ideals
 A2:  
 Sex: male  
 Age: 24 
-Rich kid runnaway who is now dissillusioned by the corruption in the system and is merely taking part in piracy as a fun fling. Also ace pilot.
+Rich kid runaway who is now dissillusioned by the corruption in the system and is merely taking part in piracy as a fun fling. Also ace pilot.
 
 
 A3:  

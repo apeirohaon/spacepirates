@@ -16,4 +16,12 @@ The crew goes on a relatively involved mission [ why? ] which they manage succes
 
 --- Act 3
 
- 
+The crew goes on another mission which goes worse. They manage to make it out with little more than their lives.
+
+--- Act 4
+
+As the interpersonal situation has substantially soured, and the material situation is also substandard, dissatisfaction is at a high. Various arguments ensue, designed to give deeper insights into the characters' minds. In the end they make an uneasy peace.
+
+--- Act 5
+
+Due to various circumstances, the crew members end up filing off the ship one by one. However, [ some stuff happens and the protagonist stops one from leaving / brings them back / saves them in a risky situations / idk or this part could happen before the people start leaving ]
