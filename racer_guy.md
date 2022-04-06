@@ -1,26 +1,57 @@
 Maxmilian 
-Racerguy 
 Dmitri
 
-"Mc-kun! Watch out!!"
+RacerGuy: self-interested, "For fun" mentality
 
-*Ship gets rekt by asteroid
+The light of the stargate falls away, revealing the familiar backdrop of stars.
 
-"IDK man it came out of nowhere"
+The ship is running low on gas, so I set a course for the closest refueling station.
 
-"Mc-kun that asteroid was 500ft wide"
+...0.5 ETH?? Petroleum is completely out of control in this quadrant. 
 
+[shake screen]
 
+As I back out, I hear the nasty sound of crumpling metal. 
 
-"Alright, I can get you your precious [valuable ship component] but I'm coming with you when you leave."
+???: AGHHHH!! YOU IDIOT!
 
-"No, no, no, that wasn't part of the deal. I just saved your stupid skin so we're even after this. Anyway, I work alone."
+???: My precious hood ornament!!! It's RUINED!
 
-"Who's the girl then?"
+mc: Look, I've got business, okay? Sorry about your thingy. 
 
-"That was... she tricked me."
+[somehow gets roped into replacing precious whatever]
 
-"..." 
+*some time later on earth*
+
+appraisal guy: Welcome, what can I do for ya today? 
+
+mc: Are you familiar with this [precious thing]? Where can I get another? 
+
+ag: *cough* Son, you've gotten yourself into a right mess. One of these ain't goin' for cheap, not to mention they're a real pain to find.
+
+mc: You can't be serious... 
+
+mc: You've got some pretty good skills.
+
+racer guy: Yeah. 
+
+mc: Feel like joining us? We could use a pilot.
+
+rg: *laughs* Sorry, I'm not interested in a random circus adventure. 
+
+offscreen voice: There he is! Stop him!
+
+There's a large commotion on the far side of the dock. Four or five officers have stormed the hangar, knocking over several crates and sending goods everywhere. They're running directly towards our ship.
+
+rg: On second thought, I think I could do with a break from this planet. 
+
+g: ...What did you do?
+
+rg: Really, I'm not sure. Could be a few things. 
+
+rg is already inside, seating himself at the controls. 
+
+rg: You guys coming? 
 
 
 
