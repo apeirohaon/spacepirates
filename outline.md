@@ -11,7 +11,7 @@ Scene 2: His previous job had been very high-paying (and correspondingly dangero
 
 Scene 3: While pondering the seer's words in a nearby location, he encounters a girl who insists upon joining him. Despite his protestations, she manages to convince him [ how? ]
 
-Scene 4: [ meets second person ] Girl proves self in previous seen, but the ship is in need for repairs and we meet the old mechanic in a decrepit underground space autozone. mechanic evidently doesn't like working for a shady business, but has to. We somehow convince him to be part of our crew.(Perhaps a fire fight happens in space autozone and we save his hide)
+Scene 4: [ meets second person ] Girl proves self in previous scene, but the ship is in need for repairs and we meet the old mechanic in a decrepit underground space autozone. mechanic evidently doesn't like working for a shady business, but has to. We somehow convince him to be part of our crew.(Perhaps a fire fight happens in space autozone and we save his hide)
 
 Scene 5: [ meets third person ] We meet in the bar?
 
