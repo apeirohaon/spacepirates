@@ -16,7 +16,7 @@ Looking at it like this, it seems peaceful.
 Now... if only my little pocket of it could be so peaceful.
 
 Egh.  
-I didn't think they'd catch up so quickly. The [name1] did start out as a racing club, so it's a matter of course they'd be fairly fast, but this is extraordinary. They didn't even let me finish my profound ruminations. How am I getting out of this one?
+I didn't think they'd catch up so quickly. The [name1] did start out as a racing club, so they'd be fairly fast as a matter of course, but this is extraordinary. They didn't even let me finish my profound ruminations. How am I getting out of this one?
 
 And how did they get here so fast?
 
@@ -31,6 +31,7 @@ Well, that makes the plan simple. There's nothing easier to abuse than these hal
 [swap scene]
 [show MC's back as he looks through some front window]
 
+
 MC: This won't be fun, but it's nothing I haven't done before.
 
 First things first. Exactly how much do they know? Despite their origins, they're a very methodical group. They have a lot of connections, so I'm not surprised one of them was savvy enough to drop them some basic [name2] knowledge. I assume they heard the same information from multiple sources. They wouldn't risk going out the wrong tail based on the word of one informant. Most likely they found a map somewhere and then got someone else to confirm it.
@@ -40,17 +41,6 @@ In any case, they're confident in their knowledge. But that means there's no way
 Frankly, it wouldn't be so hard to throw them off. There's plenty of escape routes around this area. Most aren't exactly safe, but the odds would still be in my favour.
 Problem is, that would probably just focus their attention on me further. On top of everything else, [name1] is a particularly prideful group. [Whatever mc did to piss them off...] they certainly took as a personal affront. I don't fancy having to keep evading them for the rest of time.
 
-Ideally, I want them to think that they got me. Without them actually getting me.
+Ideally, I want them to think that they got me. Without them actually getting me, obviously.
 
-One thing I noticed is that they tried to conceal the fact that they used the [name2] at all. A natural thing to do - it's a strong strategic advantage if your opponent doesn't know that you know.
-
-However, I do know. Which is to say, I know they "know" that I don't know they know.
-And I can use that to my advantage.
-
-MC: Alright... so that's the plan.
-
-For the moment, I keep my speed steady and nudge my course a few degrees to the right. In around two minutes I should come across what I like to call the [name3]. It's a pretty simply routed tunnel, so the [name1] are almost certain to be aware of it.
-
-In the meantime, my mind jumps back to the sequence of events that got me into this mess.
-
-
+One thing I noticed is that they tried to conceal the fact that they used the [name2] at all. A natural thing to do - it's quite a strategic advantage.
