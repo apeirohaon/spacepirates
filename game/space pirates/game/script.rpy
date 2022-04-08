@@ -1,20 +1,8 @@
-﻿# The script of the game goes in this file.
-
-# Declare characters used by this game. The color argument colorizes the
-# name of the character.
-
-define e = Character("Eileen")
-
-
-# The game starts here.
+define m = Character('Me', color="#c8c8ff")
 
 label start:
 
-    # Show a background. This uses a placeholder by default, but you can
-    # add a file (named either "bg room.png" or "bg room.jpg") to the
-    # images directory to show it.
-
-    scene bg room
+    scene bg test
 
     # This shows a character sprite. A placeholder is used, but you can
     # replace it by adding a file named "eileen happy.png" to the images
@@ -22,12 +10,17 @@ label start:
 
     show eileen happy
 
-    # These display lines of dialogue.
+    m "desu."
 
-    e "You've created a new Ren'Py game."
+    "Space really is a big place."
 
-    e "Once you add a story, pictures, and music, you can release it to the world!"
+    "As I look out the sole window of my vessel, that's what I think."
 
-    # This ends the game.
+    "It's filled with all kinds of people, and all kinds of opportunities."
+
+    "Maybe even someone like me can stumble across that special event that'll turn my life upside down."
+
+    "But from my view at the porthole, you'd think there wasn't anything out there at all.
+    It's so empty I can see those stars burning and churning out light from millions of kilometres away, without anything obstructing the view."
 
     return
