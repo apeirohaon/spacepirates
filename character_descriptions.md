@@ -25,3 +25,9 @@ Grew up as part of a long-distance 'tribe' (often called a cult) only made possi
 Goal: spiritual fulfillment
 
 All 3 crewmembers: desperately want to leave their old life
+
+
+
+
+
+B1:  
