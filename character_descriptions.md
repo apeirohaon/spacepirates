@@ -1,4 +1,4 @@
-Protagonist:  
+Protagonist: Sora  
 Sex: male  
 Age: 19  
 Captain of the ship.  
@@ -17,7 +17,7 @@ Age: 24
 Rich kid runaway who is now dissillusioned by the corruption in the system and is merely taking part in piracy as a fun fling. Also ace pilot.  
 Goal: hedonism
 
-A3:  
+A3: Nashira  
 Sex: female  
 Age: 20  
 Grew up as part of a long-distance 'tribe' (often called a cult) only made possible be the 
@@ -30,4 +30,7 @@ All 3 crewmembers: desperately want to leave their old life
 
 
 
-B1:  
+B1: Caph  
+Sex: female
+Age: ??  
+A trader in information. Exceedingly well informed about any and all subjects, but accordingly reluctant to share. An occasional (reluctant) contact of MC.
