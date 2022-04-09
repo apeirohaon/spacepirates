@@ -26,11 +26,7 @@ Goal: spiritual fulfillment
 
 All 3 crewmembers: desperately want to leave their old life
 
-
-
-
-
 B1: Caph  
 Sex: female
-Age: ??  
-A trader in information. Exceedingly well informed about any and all subjects, but accordingly reluctant to share. An occasional (reluctant) contact of MC.
+Age: ?? (getting up in the years)  
+A trader in information. Exceedingly well informed about any and all subjects, but accordingly reluctant to share. One of the very most competent individuals in her line of work. An occasional (reluctant) contact of MC.
