@@ -16,7 +16,7 @@ Looking at it like this, it seems peaceful.
 Now... if only my little pocket of it could be so peaceful.
 
 Egh.  
-I didn't think they'd catch up so quickly. The [name1] did start out as a racing club, so they'd be fairly fast as a matter of course, but this is extraordinary. They didn't even let me finish my profound ruminations. How am I getting out of this one?
+I didn't think they'd catch up so quickly. The Riders did start out as a racing club, so they'd be fairly fast as a matter of course, but this is extraordinary. They didn't even let me finish my profound ruminations. How am I getting out of this one?
 
 And how did they get here so fast?
 
@@ -39,7 +39,7 @@ First things first. Exactly how much do they know? Despite their origins, they'r
 In any case, they're confident in their knowledge. But that means there's no way their knowledge runs deep. There's hardly anyone in the world who knows the intricacies of the [name2]s - not as well as I do, anyway. Even if they chanced upon some rumour here or there, they would never trust it enough to act on.
 
 Frankly, it wouldn't be so hard to throw them off. There's plenty of escape routes around this area. Most aren't exactly safe, but the odds would still be in my favour.
-Problem is, that would probably just focus their attention on me further. On top of everything else, [name1] is a particularly prideful group. [Whatever mc did to piss them off...] they certainly took as a personal affront. I don't fancy having to keep evading them for the rest of time.
+Problem is, that would probably just focus their attention on me further. On top of everything else, Riders is a particularly prideful group. [Whatever mc did to piss them off...] they certainly took as a personal affront. I don't fancy having to keep evading them for the rest of time.
 
 Ideally, I want them to think that they got me. Without them actually getting me.
 
@@ -50,11 +50,11 @@ And I can use that to my advantage.
 
 MC: Alright... so that's the plan.
 
-For the moment, I keep my speed steady and nudge my course a few degrees to the right. I look to the clock: it's 16:87:27 IPT. In around two minutes I should come across what I like to call the [name3]. It's a pretty simply routed tunnel, so the [name1] are almost certain to be aware of it.
+For the moment, I keep my speed steady and nudge my course a few degrees to the right. I look to the clock: it's 16:87:27 IPT. In around two minutes I should come across what I like to call the [name3]. It's a pretty simply routed tunnel, so the Riders are almost certain to be aware of it.
 
 In the meantime, my mind jumps back to the sequence of events that got me into this mess. [, this scene might be better inserted later, it's hard to say until i see it in the actual game]
 
-It was actually around this same time, nineteen days ago. I was hanging around Corvus Cove, which I don't especially enjoy doing, but my accounts had been run low, and I doubted I could get a job fast enough at one of my more amiable haunts [ hopefully explain wahat happened to cause this apparently unusual state of affairs, sometime]. 
+It was actually around this same time, nineteen days ago. I was hanging around Corvus, which I don't especially enjoy doing, but my accounts had been run low, and I doubted I could get a job fast enough at one of my more amiable haunts [ hopefully explain wahat happened to cause this apparently unusual state of affairs, sometime]. 
 
 I was on the lookout for any of my usual contacts, but it seemed like they were all MIA for the moment. If I took of again at that point, I doubted I would even be able to make it anywhere else, so I had no choice but to hang around for awhile.
 
@@ -90,5 +90,20 @@ Caph: It's pretty out of character just to see you around here in the year 73 N.
 
 Sora: Let's say it's not sunshine and roses for me, at the moment. It's good to see a friendly face.
 
-The opening of a gun barrel [...] is a friendlier face than the one that was facing me right then, but I've learned it pays to speak diplomatically.
+The opening of a cannon barrel is a friendlier face than the one that was facing me right then, but I've learned it pays to speak diplomatically.
 
+Caph: Hey, you're welcome here any time, you know! Look, let's head over to the [some bar ?] and talk a bit, shall we?
+
+And so we did. It was a prolonged and ponderous conversation we had, the details of which are not worth recollecting.
+
+In sum, I basically learned the following:
+
+In two days' time, the Red Riders would be finishing their delivery of 2 tonnes of [??] to a mercenary group called the Blue Willow.
+
+Willow's internal communications system has a vulnerability, of which no one is familiar except Caph, one of her closer confidants, and now me.
+
+While the method of exploiting the vulnerability is not trivial, I should be able figure it within the two day span.
+
+From this, I'd be able to extract their private sign key, which would enable me to effectively pose as them in IMM communications.
+
+As for why she was willing to hand this over for free - we have a complicated relationship in place. Call it a bond of trust.
