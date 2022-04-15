@@ -2,9 +2,18 @@ Protagonist: Sora
 Sex: male  
 Age: 19  
 Captain of the ship.  
-Spent his childhood in a desolate land outside of any registered areas or claimed territories. His existence is not recognized by the Interplanetary League. For the time being, deliberately avoids thinking about anything that isn't strictly necessary for his continued survival.
 
-A1:  
+Grew up in a remote area of Earth that was long ago devastated by violent international conflict and is not officially recognized as existing at all by the Interplanetary League. He spent his childhood unable to think of anything but survival, without knowledge of friends or family.
+
+In his early teenage years, he had the opportunity to hijack a landed ship, and took off from the barren land which had been his home. He lived the next few years as a solo space pirate, often taking on jobs with particularly severe risks. He quickly became very skillful at his trade.
+
+As he lacks any sort of community or association with other people, there is a profound lack of purpose deep inside his soul. He stays sane by focusing singlemindedly on his jobs; he minimizes off-time as much as possible and prefers to stay active. He does prefer jobs he believes he has a high chance of performing successfully, and those which require a greater degree of active effort (minimization of waiting around, etc.), without putting emphasis on the monetary reward or potential danger (although his official position is that he would prefer staying alive, his actions don't necessarily bear that out).
+
+A1: Nashira  
+Sex: female  
+Age: 20  
+
+A3:  
 Sex: male  
 Age: 37  
 Once a staunchly law-abiding citizen, he still holds onto many of his old ideals.  
@@ -16,13 +25,6 @@ Sex: male
 Age: 24 
 Rich kid runaway who is now dissillusioned by the corruption in the system and is merely taking part in piracy as a fun fling. Also ace pilot.  
 Goal: hedonism
-
-A3: Nashira  
-Sex: female  
-Age: 20  
-Grew up as part of a long-distance 'tribe' (often called a cult) only made possible be the 
-(superstitious?)(nomad)  
-Goal: spiritual fulfillment
 
 All 3 crewmembers: desperately want to leave their old life
 

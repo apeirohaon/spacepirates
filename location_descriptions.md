@@ -2,6 +2,10 @@ Earth: Kept sparkly for those living luxuriously. Work is done largely done by a
 
 Solari Fortuna: Man-made planet to replace the moon, which was falling apart. Once a symbol of hope for a united humanity, now nothing more than a new new vegas. A destination where everything is ephemeral. Dedicated to the .01%.]
 
+Mars: The first off-Earth planet to be colonized, it ended up being used for a variety of different purposes. All extremes of humanity and its socioeconomic classes can be found, depending on the spot.
+
+Asteroid belt: Primarily a mining destination, although as more and more people made an asteroid to be their permanent home, urban constructions did pop up.
+
 Jupiter: Some amount of private vacation homes and entertainment centers in orbit. Skydiving like Felix Baumgartner?
 
-Neptune, Uranus, Pluto: Exclusively manned by researchers and their `aides`.
+Neptune, Uranus, Pluto: Exclusively manned by researchers and their aides.
