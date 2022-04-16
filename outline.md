@@ -17,7 +17,9 @@ For a short while, he decides to wander about space to make sure that he shook t
 
 Still drifting for the moment, he ponders the oracle's apparently nonsensical and excessively vague advice. He realizes that news of his "death" should have started makings its way to the more cutting-edge places by now and decides to head to the nearest rumor mill. There, perhaps due to the confounding effects that a seer's counsel can cause, he makes a mistake (of diplomatic nature, maybe) and finds himself embroiled in a scuffle. A local girl skillfully helps him get out of the situation, showcasing her negotiational skill, surprising collectedness in the face of trouble, and abundant connections. She uses the generated debt of gratitude to convince MC to let her join him on his ship, as his very first crew member.
 
-Scene 4: [ meets second person ] Girl proves self in previous scene, but the ship is in need for repairs and we meet the old mechanic in a decrepit underground space autozone. mechanic evidently doesn't like working for a shady business, but has to. We somehow convince him to be part of our crew.(Perhaps a fire fight happens in space autozone and we save his hide)
+###### Scene 4
+
+ [ meets second person ] Girl proves self in previous scene, but the ship is in need for repairs and we meet the old mechanic in a decrepit underground space autozone. mechanic evidently doesn't like working for a shady business, but has to. We somehow convince him to be part of our crew.(Perhaps a fire fight happens in space autozone and we save his hide)
 
 Scene 5: [ meets third person ] We meet in the bar?
 
