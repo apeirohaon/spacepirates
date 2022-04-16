@@ -26,7 +26,7 @@ Born into
 
 
 
-Name:  ??
+Name:  Dimitri(Willing to be changed)
 
 Sex: male
 
@@ -34,9 +34,9 @@ Age: 37
 
 Height: 5'7
 
-Visual description: Not fat, but sturdy/staunch. Has a trimmed beard and something of a walrus mustache. White hair. Skin color of a white man.
-Once a staunchly law-abiding citizen, he still holds onto many of his old ideals.  
-(has prosthetics/signs of work injury)  
+Visual description: Not fat, but sturdy/staunch/staut. Has a trimmed beard and something of a walrus mustache. White hair. Can be either white/black or hispanic.
+Once a staunchly law-abiding citizen, he still holds onto many of his old ideals. signs of the working class needd.
+(has prosthetics/signs of work injury)
 Goal: lead a "proper" life - have a family, be able to stand proudly under the purview of the law
 
 
