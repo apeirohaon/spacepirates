@@ -39,7 +39,7 @@ First things first. Exactly how much do they know? Despite their origins, they'r
 In any case, they're confident in their knowledge. But that means there's no way their knowledge runs deep. There's hardly anyone in the world who knows the intricacies of the [name2]s - not as well as I do, anyway. Even if they chanced upon some rumour here or there, they would never trust it enough to act on.
 
 Frankly, it wouldn't be so hard to throw them off. There's plenty of escape routes around this area. Most aren't exactly safe, but the odds would still be in my favour.
-Problem is, that would probably just focus their attention on me further. On top of everything else, Riders is a particularly prideful group. [Whatever mc did to piss them off...] they certainly took as a personal affront. I don't fancy having to keep evading them for the rest of time.
+Problem is, that would probably just focus their attention on me further. On top of everything else, Riders is a particularly prideful group. I'm certain took my little duplicity as a personal affront. I don't fancy having to keep evading them for the rest of time.
 
 Ideally, I want them to think that they got me. Without them actually getting me.
 
@@ -53,6 +53,8 @@ MC: Alright... so that's the plan.
 For the moment, I keep my speed steady and nudge my course a few degrees to the right. I look to the clock: it's 16:87:27 IPT. In around two minutes I should come across what I like to call the [name3]. It's a pretty simply routed tunnel, so the Riders are almost certain to be aware of it.
 
 In the meantime, my mind jumps back to the sequence of events that got me into this mess. [, this scene might be better inserted later, it's hard to say until i see it in the actual game]
+
+[switch background to Corvus]
 
 It was actually around this same time, nineteen days ago. I was hanging around Corvus, which I don't especially enjoy doing, but my accounts had been run low, and I doubted I could get a job fast enough at one of my more amiable haunts [ hopefully explain wahat happened to cause this apparently unusual state of affairs, sometime]. 
 
@@ -107,3 +109,16 @@ While the method of exploiting the vulnerability is not trivial, I should be abl
 From this, I'd be able to extract their private sign key, which would enable me to effectively pose as them in IMM communications.
 
 As for why she was willing to hand this over for free - we have a complicated relationship in place. Call it a bond of trust.
+
+From this information, the basic plan emerged naturally. I would digitally invade the Willow's systems, use it to produce a token identifying me as them, and then pose as them and intercept the shipment. I can "pay" in the Willow's name, too. Of course, the Riders would soon find that the monetary deposit didn't hold.
+
+But by that time, I would have already sold the stuff to someone else and been long gone. Ideally, they wouldn't even be able to figure out it was me who tricked them.
+
+[switch background to ship]
+
+Obviously, things didn't work out like that.
+
+While I'm not worrying myself too much with the details of why that is, at the moment, I would assume the systems vulnerability I was informed about and used wasn't as unknown or as difficult to detect as I'd been led to believe.
+
+It's not a very surprising revelation, but that doesn't make it less unpleasant.
+
