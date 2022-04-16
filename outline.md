@@ -19,7 +19,7 @@ Still drifting for the moment, he ponders the oracle's apparently nonsensical an
 
 ###### Scene 4
 
- [ meets second person ] Girl proves self in previous scene, but the ship is in need for repairs and we meet the old mechanic in a decrepit underground space autozone. mechanic evidently doesn't like working for a shady business, but has to. We somehow convince him to be part of our crew.(Perhaps a fire fight happens in space autozone and we save his hide)
+ [ meets second person ] Girl proves self in previous scene, but the ship is in need for repairs and we meet the old mechanic in a decrepit underground space repair station(space autozone?). The mechanic evidently doesn't like working for a shady business, but has to inorder to make ends meet(maybe we can write he has a family and is working here so they don't have to or something?). MC requests a repairs from the mechanic because MC is broke and mechanic is only person in the slums capable of conducting repairs on MC's obscure/vintage ship. The mechanic accepts the order, but does so begrudingly with his hatred of pirates. Mid repairs debtors come in and try to get the old mechanic to pay up. MC kun wanting his repairs to be completed steps in and guns down one of the debtors and sends the other one fleeing/injured. Though mechanic is saved his shop is in horrible condition, nolonger workable, the ship is barely functional. After you save his hide he feels indebted towards you and says he feels obligated to work with you and your illicit activities until he considers his debt payed. 
 
 Scene 5: [ meets third person ] We meet in the bar?
 
