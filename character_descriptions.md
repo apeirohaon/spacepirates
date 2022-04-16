@@ -13,6 +13,8 @@ Name: Nashira
 Sex: female  
 Age: 20  
 
+Born into 
+
 Name:  ??
 Sex: male  
 Age: 37  
