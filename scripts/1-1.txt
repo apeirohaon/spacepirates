@@ -21,7 +21,7 @@ I didn't think they'd catch up so quickly. The Riders did start out as a racing 
 And how did they get here so fast?
 
 After some consideration, I come to the conclusion that there's only one way.  
-They used the [name2].      [<<< change this to a more reasoned deduction ; preferably showing off his knowledge/reasoning]
+They used the rift.      [<<< change this to a more reasoned deduction ; preferably showing off his knowledge/reasoning]
 
 Huh. They really want my ass that bad?  
 They didn't seem like the type to take that kind of risk.
@@ -34,16 +34,16 @@ Well, that makes the plan simple. There's nothing easier to abuse than these hal
 
 MC: This won't be fun, but it's nothing I haven't done before.
 
-First things first. Exactly how much do they know? Despite their origins, they're a very methodical group. They have a lot of connections, so I'm not surprised one of them was savvy enough to drop them some basic [name2] knowledge. I assume they heard the same information from multiple sources. They wouldn't risk going out the wrong tail based on the word of one informant. Most likely they found a map somewhere and then got someone else to confirm it.
+First things first. Exactly how much do they know? Despite their origins, they're a very methodical group. They have a lot of connections, so I'm not surprised one of them was savvy enough to drop them some basic rift knowledge. I assume they heard the same information from multiple sources. They wouldn't risk going out the wrong tail based on the word of one informant. Most likely they found a map somewhere and then got someone else to confirm it.
 
-In any case, they're confident in their knowledge. But that means there's no way their knowledge runs deep. There's hardly anyone in the world who knows the intricacies of the [name2]s - not as well as I do, anyway. Even if they chanced upon some rumour here or there, they would never trust it enough to act on.
+In any case, they're confident in their knowledge. But that means there's no way their knowledge runs deep. There's hardly anyone in the world who knows the intricacies of the rifts - not as well as I do, anyway. Even if they chanced upon some rumour here or there, they would never trust it enough to act on.
 
 Frankly, it wouldn't be so hard to throw them off. There's plenty of escape routes around this area. Most aren't exactly safe, but the odds would still be in my favour.
 Problem is, that would probably just focus their attention on me further. On top of everything else, Riders is a particularly prideful group. I'm certain took my little duplicity as a personal affront. I don't fancy having to keep evading them for the rest of time.
 
 Ideally, I want them to think that they got me. Without them actually getting me.
 
-One thing I noticed is that they tried to conceal the fact that they used the [name2] at all. A natural thing to do - it's a strong strategic advantage if your opponent doesn't know that you know.
+One thing I noticed is that they tried to conceal the fact that they used the rift at all. A natural thing to do - it's a strong strategic advantage if your opponent doesn't know that you know.
 
 However, I do know. Which is to say, I know they "know" that I don't know they know.
 And I can use that to my advantage.
@@ -124,15 +124,15 @@ It's not a very surprising revelation, but that doesn't make it less unpleasant.
 
 I glance at the clock again - 16:89:12. I look through the port and recognize the location. [name3] is coming up just ahead. Although it's a fairly basic route, it actually takes a pretty complicated path. In short, you end up a few kilometres behind where you started. 
 
-I suspect the Riders won't actually have the full confidence in themselves to follow me through, and will instead do a quick double back to catch me where the [name2] comes out. Their navigational equipment is certainly precise enough for that, and they can probably outpace the small delay suffered when taking a low-tier route like this.
+I suspect the Riders won't actually have the full confidence in themselves to follow me through, and will instead do a quick double back to catch me where the rift comes out. Their navigational equipment is certainly precise enough for that, and they can probably outpace the small delay suffered when taking a low-tier route like this.
 
-And so the time for action is upon us. [name3] being a basic [name2] means I don't have to do any stupid tricks to enter, so I just nudge my course by a few more degrees. 
+And so the time for action is upon us. [name3] being a basic rift means I don't have to do any stupid tricks to enter, so I just nudge my course by a few more degrees. 
 
-In another couple seconds, I enter the [name2].
+In another couple seconds, I enter the rift.
 
 [change background to some spiral swirly esoteric bullshit visual representation of wormhole hyperspace w/e]
 
-I suppose not many people know the feeling of going through a [name2].
+I suppose not many people know the feeling of going through a rift.
 
 Because of that, people like to romanticize it. It gives the people who haven't experienced it something to wonder at, and it helps those who have experienced it feel special.
 
@@ -157,3 +157,57 @@ Through my primary window at the head of my ship, I see the Riders approaching r
 I do a quick 180 and immediately set course for the next rift.
 
 It's pretty close by, so I should be able to get there without them catching up to me.
+
+Within a few seconds, I reach it. The Riders have gained a little, but not within firing range.
+
+And so, again into riftspace I go.
+
+[show the thingy again]
+
+...
+
+[back to the ship]
+
+Ow.
+
+My head hurts.
+
+But it's a small price to pay to be rid of the grip of those clingy fellows.
+
+I check the rearview camera of my dashboard to confirm there's nothing behind me but the stars...
+
+...and am confronted with the sight of Red Rider's flagship, emerging from that same distortion in space I exited a moment ago.
+
+Well, shit. 
+
+I guess I made one too many assumptions this time.
+
+Maybe their information network is even more extensive than I thought. Maybe they're feeling frisky today.
+Maybe they just hate me that much.
+
+Whatevever the case may be, it won't be easy getting out of this scenario.
+
+That last route I picked empties out to a particularly smooth region of space, so it's not like I can just try to pull the same trick again.
+
+I look around me in space to try and find any objects of interst.
+
+The nearest planet is a few million kilometres away, and the nearest space port is a few thousand. There's no chance I'd make it to either before being wiped off this plane of the universe.
+
+Ahead and to my right, I see a thick asteroid field that I could probably reach in time. Unfortunately, I'm not a godly enough pilot to make that work, and I don't have enough of a death wish to do it anyway.
+
+That leaves: the rift I just left behind. Only a few people know this anymore, but {i}any{/i} type of warp-tunnel actually goes both ways—not just those created by those fancy little gates.
+
+That said, most of these naturally occurring rifts tend to have significantly more resistance going one way than the other. With some it's impossible for people to pass through the "uphill" way, at least if they want to come out the other wide in solid form.
+
+However, this particular rift is not so. It does have a bias for the direction we just traveled by, but it's not too terrible.
+
+With that in mind, all I have to do is figure out how I'm going to be able to double back without the Riders' ship blocking my way. As it stands, I don't think the'd let me just scurry past them.
+
+I look back again at the asteroid field. While I don't have near enough skill to fly straight through it, I think I could handle one trick or two.
+
+I set course for the asteroid field and send up a prayer to the god of ship handling.
+Unfortunately, I don't know his name.
+I didn't have much in the way of a parent to teach me that kind of thing.
+
+I send an apology to go along with my plea, to the unnamed god of ship handling.
+
